@@ -26,6 +26,7 @@ Supports data files from Windows and Full Tilt versions of the game.
 | MorphOS            | BeWorld         | https://www.morphos-storage.net/?id=1688897                                                                |
 | AmigaOS 4          | rjd324          | http://aminet.net/package/game/actio/spacecadetpinball-aos4                                                |
 | Windows RT (wip)   | leandrofriedrich | https://github.com/leandrofriedrich/SpaceCadetPinball							                                              |
+
 Platforms covered by this project: desktop Windows, Linux and macOS.
 
 <br>
